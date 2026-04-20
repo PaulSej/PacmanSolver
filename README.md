@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=t1pL5DrJ5rI
 https://www.youtube.com/watch?v=wQE82derooc
 
 
-
+electromecanical mouse
 Maze running mouse (Theseus), Claude Shannon (1951)
 https://www.youtube.com/watch?v=yP-QM4hTjz0
 https://www.youtube.com/watch?v=_9_AEVQ_p74

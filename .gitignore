@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+/livres
+
 # Distribution / packaging
 .Python
 build/
@@ -76,6 +78,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
+.ipynb
 .ipynb_checkpoints
 
 # IPython
@@ -205,3 +208,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# My own testing environment
+tests_folder/
+*.ipynb
+

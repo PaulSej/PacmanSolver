@@ -1,0 +1,5 @@
+playwright==1.60.0
+pytesseract==0.3.13
+opencv-python==4.13.0.92
+#torch == 2.12.0 (lire la doc pour voir les différentes méthodes d installation dispos
+#numpy == 2.4.6
